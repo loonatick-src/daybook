@@ -1,4 +1,9 @@
 # Reading List
+At this point in my life, I need to develop expertise in GPU computing, the Julia programming language, and 
+FEM and domain decomposition. But for some reason I am always drawn (back) to these other topics/skills etc in
+my "spare" time.
+CS:APP had quite an impact on me for some reason, even though I am much less than halfway through the tome.
+
 My bucket list for technical (and some non-technical) reading. I have read parts of some of them.
 Sometimes life got in the way (LOL), other times  the book itself is a fat tome.
 If the book has accompanying projects or exercises (e.g. in
@@ -25,11 +30,11 @@ TODO: Categorize by subtopic?
 - [ ] Seven Concurrency Models in Seven Weeks
 - [ ] Structure and Interpretation of Computer Programs
 - [ ] Structure and Interpretation of Classical Mechanics
-- The Little X Series (if it can be called that)
-  - [ ] Schemer
-  - [ ] Prover
-  - [ ] Typer
-  - [ ] Learner
+- [ ] The Little X Series (if it can be called that)
+    - [ ] Schemer
+    - [ ] Prover
+    - [ ] Typer
+    - [ ] Learner
 - [ ] The Reasoned Schemer 
 - [ ] On Lisp
 - [ ] Let Over Lambda
