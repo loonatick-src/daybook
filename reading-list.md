@@ -4,6 +4,9 @@ FEM and domain decomposition. But for some reason I am always drawn (back) to th
 my "spare" time.
 CS:APP had quite an impact on me for some reason, even though I am much less than halfway through the tome.
 
+In principle should aim for mastery in whatever I pursue professionally/academically regardless of the content
+itself. It remains to be seen if I can adopt this principle faithfully.
+
 My bucket list for technical (and some non-technical) reading. I have read parts of some of them.
 Sometimes life got in the way (LOL), other times  the book itself is a fat tome.
 If the book has accompanying projects or exercises (e.g. in
