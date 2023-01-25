@@ -34,7 +34,18 @@ TODO: Categorize by subtopic?
 - [ ] Structure and Interpretation of Computer Programs
 - [ ] Structure and Interpretation of Classical Mechanics
 - [ ] The Little X Series (if it can be called that)
-    - [ ] Schemer
+    - [ ] The Little Schemer
+      + [X] Toys
+      + [X] Do It, Do It Again, and Again, and Again ...
+      + [X] Cons the Magnificent
+      + [ ] Numbers Games
+      + [ ] \*Oh mY Gawd\*: It's full of Stars
+      + [ ] Shadows
+      + [ ] Friends and Relations
+      + [ ] Lambda the Ultimate
+      + [ ] ... and Again, and Again, and Again, ...
+      + [ ] What is the Value of All of This?
+    - [ ] The Seasoned Schemer
     - [ ] Prover
     - [ ] Typer
     - [ ] Learner
