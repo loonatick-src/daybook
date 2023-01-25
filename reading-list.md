@@ -39,7 +39,7 @@ TODO: Categorize by subtopic?
       + [X] Do It, Do It Again, and Again, and Again ...
       + [X] Cons the Magnificent
       + [ ] Numbers Games
-      + [ ] \*Oh mY Gawd\*: It's full of Stars
+      + [ ] \*Oh my Gawd\*: It's full of Stars
       + [ ] Shadows
       + [ ] Friends and Relations
       + [ ] Lambda the Ultimate
