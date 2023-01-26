@@ -38,17 +38,17 @@ TODO: Categorize by subtopic?
       + [X] Toys
       + [X] Do It, Do It Again, and Again, and Again ...
       + [X] Cons the Magnificent
-      + [ ] Numbers Games
+      + [X] Numbers Games
       + [ ] \*Oh my Gawd\*: It's full of Stars
       + [ ] Shadows
       + [ ] Friends and Relations
       + [ ] Lambda the Ultimate
       + [ ] ... and Again, and Again, and Again, ...
       + [ ] What is the Value of All of This?
-    - [ ] The Seasoned Schemer
     - [ ] Prover
     - [ ] Typer
     - [ ] Learner
+- [ ] The Seasoned Schemer
 - [ ] The Reasoned Schemer 
 - [ ] On Lisp
 - [ ] Let Over Lambda
