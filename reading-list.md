@@ -31,6 +31,12 @@ TODO: Categorize by subtopic?
 - [ ] Operating Systems: Three Easy Pieces (OSTEP)
 - [ ] The Art of Multiprocessor Programming 2e
 - [ ] Seven Concurrency Models in Seven Weeks
+  1. [X] Introduction
+  2. [ ] Threads and Locks
+     1. [ ] Day 1
+     2. [ ] Day 2
+     3. [ ] Day 3
+  3. [ ] 
 - [ ] Structure and Interpretation of Computer Programs
 - [ ] Structure and Interpretation of Classical Mechanics
 - [ ] The Little X Series (if it can be called that)
@@ -42,7 +48,7 @@ TODO: Categorize by subtopic?
       + [X] \*Oh my Gawd\*: It's full of Stars
       + [X] Shadows
       + [X] Friends and Relations
-      + [ ] Lambda the Ultimate
+      + [X] Lambda the Ultimate
       + [ ] ... and Again, and Again, and Again, ...
       + [ ] What is the Value of All of This?
     - [ ] Prover
