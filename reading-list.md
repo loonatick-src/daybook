@@ -49,8 +49,9 @@ TODO: Categorize by subtopic?
       + [X] Shadows
       + [X] Friends and Relations
       + [X] Lambda the Ultimate
-      + [ ] ... and Again, and Again, and Again, ...
+      + [X] ... and Again, and Again, and Again, ...
       + [ ] What is the Value of All of This?
+      Chapter 9 was quite a ride, man
     - [ ] Prover
     - [ ] Typer
     - [ ] Learner
@@ -60,3 +61,7 @@ TODO: Categorize by subtopic?
 - [ ] Let Over Lambda
 - [ ] The Mythical Man-Month
 - [ ] The Pragmatic Programmer
+
+# Courses
+- [ ] (Parallel Computing  and SciML)[book.sciml.ai]
+- [ ] (CS 6120: Advanced Compilers: The Self-Guided Online Course)[https://www.cs.cornell.edu/courses/cs6120/2020fa/self-guided/] 
